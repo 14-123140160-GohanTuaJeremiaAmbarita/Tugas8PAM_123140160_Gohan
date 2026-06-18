@@ -37,4 +37,3 @@
 *   **Production Standard**: Kode disusun dengan pemisahan layer yang jelas untuk mempermudah skalabilitas.
 
 ---
-*Laporan ini disusun untuk memenuhi standar tugas praktikum Mobile App Development Week 8.*
